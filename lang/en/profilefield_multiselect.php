@@ -16,11 +16,10 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'profilefield_menu', language 'en', branch 'MOODLE_20_STABLE'
- *
- * @package   profilefield_menu
- * @copyright 1999 onwards Martin Dougiamas  {@link http://moodle.com}
- * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * @package    profilefield
+ * @subpackage multiselect
+ * @copyright  2014 onwards The Digital Group {@link http://thedigitalgroup.com}
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 $string['pluginname'] = 'Multi Select';

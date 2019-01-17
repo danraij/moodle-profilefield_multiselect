@@ -16,7 +16,7 @@
 
 /**
  * @package    profilefield
- * @subpackage menu
+ * @subpackage multiselect
  * @copyright  2014 onwards The Digital Group {@link http://thedigitalgroup.com}
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
